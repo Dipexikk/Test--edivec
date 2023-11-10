@@ -1,0 +1,59 @@
+main{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+header{
+    background-color: blue;
+    padding: 12px;
+    color: white;
+    margin: -8px;
+    display: flex;
+    justify-content: right;
+    text-indent: 18px;
+}
+
+.okenko{
+    background-color: rgb(68, 68, 255);
+    margin: 14px;
+    width: 700px;
+    height: 800px;
+    border-radius: 2px;
+}
+
+.one{
+    background-color: lightgreen;
+    border-radius: 6px;
+    margin: 32px;
+    padding: 12px;
+}
+
+.two{
+    background-color: lightgreen;
+    border-radius: 6px;
+    margin: 32px;
+    padding: 12px;
+}
+
+.three{
+    background-color: lightgreen;
+    border-radius: 6px;
+    margin: 32px;
+    padding: 12px;
+}
+
+footer{
+    background-color: rgb(107, 0, 139);
+    height: 70px;
+    text-align: left;
+    display: flex;
+    padding-left: 8px;
+    margin: -8px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+
+}
